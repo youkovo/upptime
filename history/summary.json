@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/one.akameow.com.ico",
     "slug": "static",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "58.12%",
+    "uptimeDay": "58.12%",
+    "uptimeWeek": "58.12%",
+    "uptimeMonth": "58.12%",
+    "uptimeYear": "58.12%",
     "time": 833,
     "timeDay": 833,
     "timeWeek": 833,
     "timeMonth": 833,
     "timeYear": 833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-04": 0
+    }
   },
   {
     "name": "sync",
