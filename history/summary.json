@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 640,
-    "timeWeek": 640,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "time": 619,
+    "timeDay": 619,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://one.akameow.com/static",
     "icon": "https://icons.duckduckgo.com/ip3/one.akameow.com.ico",
     "slug": "static",
-    "status": "down",
-    "uptime": "58.12%",
-    "uptimeDay": "58.12%",
-    "uptimeWeek": "58.12%",
-    "uptimeMonth": "58.12%",
-    "uptimeYear": "58.12%",
-    "time": 833,
-    "timeDay": 833,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "6.86%",
+    "uptimeDay": "6.86%",
+    "uptimeWeek": "6.86%",
+    "uptimeMonth": "6.86%",
+    "uptimeYear": "6.86%",
+    "time": 1012,
+    "timeDay": 1012,
+    "timeWeek": 1012,
+    "timeMonth": 1012,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2026-06-04": 0
+      "2026-06-04": 4
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 748,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "time": 763,
+    "timeDay": 763,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 387,
+    "timeDay": 387,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   }
 ]
