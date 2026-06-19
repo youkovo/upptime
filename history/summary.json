@@ -22,18 +22,20 @@
     "url": "https://one.akameow.com/static",
     "icon": "https://icons.duckduckgo.com/ip3/one.akameow.com.ico",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1019,
-    "timeDay": 636,
-    "timeWeek": 635,
-    "timeMonth": 1019,
-    "timeYear": 1019,
-    "dailyMinutesDown": {}
+    "time": 1544,
+    "timeDay": 5549,
+    "timeWeek": 1864,
+    "timeMonth": 1544,
+    "timeYear": 1544,
+    "dailyMinutesDown": {
+      "2026-06-19": 0
+    }
   },
   {
     "name": "sync",
