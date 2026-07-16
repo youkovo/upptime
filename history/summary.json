@@ -13,7 +13,7 @@
     "time": 653,
     "timeDay": 802,
     "timeWeek": 486,
-    "timeMonth": 627,
+    "timeMonth": 629,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2026-06-24": 530,
@@ -36,7 +36,7 @@
     "time": 1550,
     "timeDay": 1064,
     "timeWeek": 2340,
-    "timeMonth": 1656,
+    "timeMonth": 1675,
     "timeYear": 1550,
     "dailyMinutesDown": {
       "2026-06-19": 407,
@@ -62,7 +62,7 @@
     "time": 602,
     "timeDay": 788,
     "timeWeek": 512,
-    "timeMonth": 598,
+    "timeMonth": 596,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-06-24": 529,
@@ -76,18 +76,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.akameow.com.ico",
     "slug": "searxng",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.79%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.79%",
     "time": 232,
     "timeDay": 136,
     "timeWeek": 207,
-    "timeMonth": 224,
+    "timeMonth": 221,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-07-06": 80
+      "2026-07-06": 80,
+      "2026-07-16": 46
     }
   }
 ]
