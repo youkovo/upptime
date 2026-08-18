@@ -1,7 +1,7 @@
 url: https://one.akameow.com/static
-status: up
-code: 403
-responseTime: 864
-lastUpdated: 2026-08-17T23:25:59.360Z
+status: down
+code: 502
+responseTime: 10671
+lastUpdated: 2026-08-18T10:46:39.154Z
 startTime: 2026-06-04T07:18:14.696Z
 generator: Upptime <https://github.com/upptime/upptime>
